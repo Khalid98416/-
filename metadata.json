@@ -1,0 +1,8 @@
+{
+  "name": "مدرستي",
+  "description": "تطبيق ويب متكامل لإدارة المدرسة يتضمن لوحة تحكم، إدارة الطلاب والمعلمين، والجداول والامتحانات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
